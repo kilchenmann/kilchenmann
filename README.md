@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there I'm André
+
+<!--
+Husband, Father, Web-Developer and Photograph
+
+- 🎓 I have a PhD in media studies / digital humanities.
+
+- 🔭 I’m currently working at the [DaSCH](https://dasch.swiss) on the DaSCH Service Platform: a software framework for storing, sharing, and working with primary sources and data in the humanities.
+
+- 
 
 <!--
 **kilchenmann/kilchenmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
