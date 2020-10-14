@@ -17,11 +17,10 @@ I like good and functional design, create websites, and in my spare time I build
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Angular" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
-<img align="left" alt="HTML5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-<img align="left" alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-<img align="left" alt="Sass" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
-
+[<img align="left" alt="Angular" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />][angular]
+[<img align="left" alt="HTML5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />][html5]
+[<img align="left" alt="Sass" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />][sass]
+[<img align="left" alt="Ghost" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ghost.svg" />][ghost]
 
 
 [website]: https://lakto.design
@@ -31,3 +30,8 @@ I like good and functional design, create websites, and in my spare time I build
 [unsplash]: https://unsplash.com/@kilchenmann
 [pinterest]: https://www.pinterest.ch/milchkannen
 [codepen]: https://codepen.io/kilchenmann
+
+[angular]: https://angular.io
+[html5]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+[sass]: https://sass-lang.com
+[ghost]: https://ghost.org
