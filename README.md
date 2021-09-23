@@ -8,6 +8,15 @@ I build my own furnitures, sew clothes, accessories and take photographs.
 
 ### Connect with me:
 
+* [Website][website]
+* [LinkedIn][linkedin]
+* [CodePen][codepen]
+* [Unsplash][unsplash]
+* [Instagram][instagram]
+* [Twitter][twitter]
+* [Pinterest][pinterest]
+
+<!--
 [<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" align="left" width="22px" alt="lakto.design | Website" />][website]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" align="left" width="22px" alt="kilchenmann | LinkedIn" />][linkedin]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codepen.svg" align="left" width="22px" alt="kilchenmann | CodePen" width="22px"  />][codepen]
@@ -15,14 +24,26 @@ I build my own furnitures, sew clothes, accessories and take photographs.
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" align="left" width="22px" alt="milchkannen | Instagram" width="22px" />][instagram]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" align="left" width="22px" alt="milchkannen | Twitter" width="22px"  />][twitter]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pinterest.svg" align="left" width="22px" alt="milchkannen | Pinterest" />][pinterest]
-<br>
-### Languages and Tools:
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angular.svg" align="left" width="22px" alt="Angular" />][angular]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" align="left" width="22px" alt="Angular" />][html5]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg" align="left" width="22px" alt="Angular" />][sass]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ghost.svg" align="left" width="22px" alt="Angular" />][ghost]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/eleventy.svg" align="left" width="22px" alt="Angular" />][11ty]
+-->
 
+### Languages and Tools I'm working with:
+
+* [Angular][angular]
+* [Svelte][svelte]
+* [HTML 5][html5]
+* [SASS][sass]
+* [Ghost][ghost]
+* [11ty][11ty]
+* [Docker][docker]
+* [MkDocs][mkdocs]
+
+<!--
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angular.svg" align="left" width="22px" alt="Angular" />][angular]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" align="left" width="22px" alt="HTML 5" />][html5]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg" align="left" width="22px" alt="SASS" />][sass]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ghost.svg" align="left" width="22px" alt="Ghost" />][ghost]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/eleventy.svg" align="left" width="22px" alt="11ty" />][11ty]
+-->
 
 [website]: https://lakto.design
 [twitter]: https://twitter.com/milchkannen
@@ -33,7 +54,10 @@ I build my own furnitures, sew clothes, accessories and take photographs.
 [codepen]: https://codepen.io/kilchenmann
 
 [angular]: https://angular.io
+[svelte]: https://svelte.dev
 [html5]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 [sass]: https://sass-lang.com
 [ghost]: https://ghost.org
 [11ty]: https://www.11ty.dev
+[docker]: https://www.docker.com
+[mkdocs]: https://www.mkdocs.org
