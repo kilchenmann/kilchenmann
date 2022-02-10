@@ -36,6 +36,7 @@ I build my own furnitures, sew clothes, accessories and take photographs.
 * [11ty][11ty]
 * [Docker][docker]
 * [MkDocs][mkdocs]
+* [ELM][elm]
 
 <!--
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angular.svg" align="left" width="22px" alt="Angular" />][angular]
@@ -61,3 +62,4 @@ I build my own furnitures, sew clothes, accessories and take photographs.
 [11ty]: https://www.11ty.dev
 [docker]: https://www.docker.com
 [mkdocs]: https://www.mkdocs.org
+[elm]: https://elm-lang.org
