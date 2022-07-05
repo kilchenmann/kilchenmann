@@ -1,7 +1,6 @@
 ### Hi there I'm André
 
-Web developer from Switzerland. I got my PhD in media studies / digital humanitis and work at the 
-[Data and Service Center for the Humanities](https://dasch.swiss) on [web applications](https://github.com/dasch-swiss). 
+Web developer from Switzerland. I got my PhD in media studies / digital humanitis from the University from Basel. 
 
 I like good and functional design, create websites, and in my spare time 
 I build my own furnitures, sew clothes, accessories and take photographs.
