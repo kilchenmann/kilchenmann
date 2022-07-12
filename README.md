@@ -14,12 +14,13 @@ Web developer from Switzerland. I got my PhD in media studies / digital humaniti
 
 ## Languages and Frameworks I work with
 
-[<img src="https://img.shields.io/badge/sass--bf4080?style=for-the-badge&logo=sass" alt="SASS" />][sass]
-[<img src="https://img.shields.io/badge/html5--e34c26?style=for-the-badge&logo=html5" alt="Html 5" />][html5]
 [<img src="https://img.shields.io/badge/angular--a6120d?style=for-the-badge&logo=angular" alt="Angular" />][angular]
 [<img src="https://img.shields.io/badge/svelte--ff3e00?style=for-the-badge&logo=svelte" alt="Svelte" />][svelte]
-[<img src="https://img.shields.io/badge/typescript--1493ff?style=for-the-badge&logo=typescript" alt="TypeScript" />][typescript]
 [<img src="https://img.shields.io/badge/elm--blue?style=for-the-badge&logo=elm" alt="Elm" />][elm]
+
+[<img src="https://img.shields.io/badge/typescript--1493ff?style=for-the-badge&logo=typescript" alt="TypeScript" />][typescript]
+[<img src="https://img.shields.io/badge/html5--e34c26?style=for-the-badge&logo=html5" alt="Html 5" />][html5]
+[<img src="https://img.shields.io/badge/sass--bf4080?style=for-the-badge&logo=sass" alt="SASS" />][sass]
 
 ## Tools and Software I use most
 
