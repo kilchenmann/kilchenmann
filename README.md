@@ -1,6 +1,6 @@
 ### Hi there I'm André
 
-Web developer from Switzerland. I got my PhD in media studies / digital humanitis from the University from Basel. 
+Web developer from Switzerland. I got my PhD in media studies / digital humanitis from the University of Basel. Today I work as an archive computer scientist.
 
 I like good and functional design, create websites, and in my spare time 
 I build my own furnitures, sew clothes, accessories and take photographs.
@@ -37,13 +37,13 @@ I build my own furnitures, sew clothes, accessories and take photographs.
 * [MkDocs][mkdocs]
 * [ELM][elm]
 
-<!--
+
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angular.svg" align="left" width="22px" alt="Angular" />][angular]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" align="left" width="22px" alt="HTML 5" />][html5]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg" align="left" width="22px" alt="SASS" />][sass]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ghost.svg" align="left" width="22px" alt="Ghost" />][ghost]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/eleventy.svg" align="left" width="22px" alt="11ty" />][11ty]
--->
+
 
 [website]: https://lakto.design
 [twitter]: https://twitter.com/milchkannen
