@@ -20,6 +20,9 @@ Web developer from Switzerland. I got my PhD in media studies / digital humaniti
 [<img src="https://img.shields.io/badge/typescript--1493ff?style=for-the-badge&logo=typescript" alt="TypeScript" />][typescript]
 [<img src="https://img.shields.io/badge/html5--e34c26?style=for-the-badge&logo=html5" alt="Html 5" />][html5]
 [<img src="https://img.shields.io/badge/sass--bf4080?style=for-the-badge&logo=sass" alt="SASS" />][sass]
+[<img src="https://img.shields.io/badge/latex--008080?style=for-the-badge&logo=latex" alt="LaTeX" />][latex]
+[<img src="https://img.shields.io/badge/bash--brightgreen?style=for-the-badge&logo=gnubash" alt="GNU Bash" />][gnubash]
+
 
 ## Tools and Software I use most
 
@@ -54,4 +57,6 @@ Web developer from Switzerland. I got my PhD in media studies / digital humaniti
 [elm]: https://elm-lang.org
 [figma]: https://www.figma.com 
 [vsc]: https://code.visualstudio.com
-[zettlr]: https://www.zettlr.com/
+[zettlr]: https://www.zettlr.com
+[latex]: https://www.latex-project.org
+[gnubash]: https://www.gnu.org/software/bash
