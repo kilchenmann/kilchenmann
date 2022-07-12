@@ -38,7 +38,7 @@ I build my own furnitures, sew clothes, accessories and take photographs.
 * [ELM][elm]
 
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angular.svg" align="left" width="22px" alt="Angular" />][angular]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angular.svg" style="background:#fff" align="left" width="22px" alt="Angular" />][angular]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" align="left" width="22px" alt="HTML 5" />][html5]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg" align="left" width="22px" alt="SASS" />][sass]
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ghost.svg" align="left" width="22px" alt="Ghost" />][ghost]
