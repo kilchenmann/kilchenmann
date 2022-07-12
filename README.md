@@ -1,55 +1,36 @@
-### Hi there I'm André
+## Hi there I'm André
 
-Web developer from Switzerland. I got my PhD in media studies / digital humanitis from the University of Basel. Today I work as an archive computer scientist in Solothurn.
+Web developer from Switzerland. I got my PhD in media studies / digital humanitis from the University of Basel. Today I work as an archive computer scientist in Solothurn. I like good and functional design, create websites, and in my spare time I build my own furnitures, sew clothes, accessories and take photographs. The products are published on one of my [websites][website].
 
-I like good and functional design, create websites, and in my spare time 
-I build my own furnitures, sew clothes, accessories and take photographs.
+## Connect with me
 
-### Connect with me:
+[<img src="https://img.shields.io/badge/linkedin--blue?style=for-the-badge&logo=linkedin" alt="LinkedIn | Kilchenmann" />][linkedin]
+[<img src="https://img.shields.io/badge/github--purple?style=for-the-badge&logo=github" alt="GitHub | Kilchenmann" />][github]
+[<img src="https://img.shields.io/badge/codepen--green?style=for-the-badge&logo=codepen" alt="CodePen | Kilchenmann" />][codepen]
+[<img src="https://img.shields.io/badge/unsplash--darkgrey?style=for-the-badge&logo=unsplash" alt="Unsplash | Kilchenmann" />][unsplash]
+[<img src="https://img.shields.io/badge/instagram--e1306c?style=for-the-badge&logo=instagram" alt="Instagram | Milchkannen" />][instagram]
+[<img src="https://img.shields.io/badge/twitter--00acee?style=for-the-badge&logo=twitter" alt="Twitter | Milchkannen" />][twitter]
+[<img src="https://img.shields.io/badge/pinterest--e60023?style=for-the-badge&logo=pinterest" alt="Pinterest | Milchkannen" />][pinterest]
 
-* [Website][website]
-* [LinkedIn][linkedin]
-* [GitHub][github]
-* [CodePen][codepen]
-* [Unsplash][unsplash]
-* [Instagram][instagram]
-* [Twitter][twitter]
-* [Pinterest][pinterest]
+## Languages and Frameworks I work with
 
-<!--
-[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" align="left" width="22px" alt="lakto.design | Website" />][website]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" align="left" width="22px" alt="kilchenmann | LinkedIn" />][linkedin]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" align="left" width="22px" alt="kilchenmann | GitHub" width="22px"  />][github]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/codepen.svg" align="left" width="22px" alt="kilchenmann | CodePen" width="22px"  />][codepen]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/unsplash.svg" align="left" width="22px" alt="kilchenmann | Unsplash" width="22px" />][unsplash]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" align="left" width="22px" alt="milchkannen | Instagram" width="22px" />][instagram]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" align="left" width="22px" alt="milchkannen | Twitter" width="22px"  />][twitter]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/pinterest.svg" align="left" width="22px" alt="milchkannen | Pinterest" />][pinterest]
--->
+[<img src="https://img.shields.io/badge/sass--bf4080?style=for-the-badge&logo=sass" alt="SASS" />][sass]
+[<img src="https://img.shields.io/badge/html5--e34c26?style=for-the-badge&logo=html5" alt="Html 5" />][html5]
+[<img src="https://img.shields.io/badge/angular--a6120d?style=for-the-badge&logo=angular" alt="Angular" />][angular]
+[<img src="https://img.shields.io/badge/svelte--ff3e00?style=for-the-badge&logo=svelte" alt="Svelte" />][svelte]
+[<img src="https://img.shields.io/badge/typescript--1493ff?style=for-the-badge&logo=typescript" alt="TypeScript" />][typescript]
+[<img src="https://img.shields.io/badge/elm--blue?style=for-the-badge&logo=elm" alt="Elm" />][elm]
 
-### Languages and Tools I'm working with:
+## Tools and Software I use most
 
-* [Angular][angular]
-* [Svelte][svelte]
-* [HTML 5][html5]
-* [SASS][sass]
-* [Ghost][ghost]
-* [11ty][11ty]
-* [Docker][docker]
-* [MkDocs][mkdocs]
-* [ELM][elm]
+[<img src="https://img.shields.io/badge/ghost--30cf43?style=for-the-badge&logo=ghost" alt="Ghost" />][ghost]
+[<img src="https://img.shields.io/badge/eleventy--darkgrey?style=for-the-badge&logo=eleventy" alt="11ty" />][11ty]
+[<img src="https://img.shields.io/badge/mkdocs--blue?style=for-the-badge&logo=mkdocs" alt="mkDocs" />][mkdocs]
+[<img src="https://img.shields.io/badge/docker--blue?style=for-the-badge&logo=docker" alt="Docker" />][docker]
+[<img src="https://img.shields.io/badge/vsc--0078d7?style=for-the-badge&logo=visualstudiocode" alt="Visual Studio Code" />][vsc]
+[<img src="https://img.shields.io/badge/zettlr--33A67C?style=for-the-badge&logo=zettlr" alt="Zettlr" />][zettlr]
+[<img src="https://img.shields.io/badge/figma--ff3b00?style=for-the-badge&logo=figma" alt="Figma" />][figma]
 
-<!--
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/angular.svg" align="left" width="22px" alt="Angular" />][angular]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" align="left" width="22px" alt="HTML 5" />][html5]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/sass.svg" align="left" width="22px" alt="SASS" />][sass]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/ghost.svg" align="left" width="22px" alt="Ghost" />][ghost]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/eleventy.svg" align="left" width="22px" alt="11ty" />][11ty]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/docker.svg" align="left" width="22px" alt="Docker" />][docker]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mkdocs.svg" align="left" width="22px" alt="MkDocs" />][mkdocs]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/elm.svg" align="left" width="22px" alt="Elm" />][elm]
-[<img src="https://img.shields.io/badge/--white?style=flat-square&color=white&logoColor=%23333&logo=eleventy" align="left" width="48px" alt="11ty" />][11ty]
--->
 
 
 [website]: https://lakto.design
@@ -63,6 +44,7 @@ I build my own furnitures, sew clothes, accessories and take photographs.
 
 [angular]: https://angular.io
 [svelte]: https://svelte.dev
+[typescript]: https://www.typescriptlang.org
 [html5]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 [sass]: https://sass-lang.com
 [ghost]: https://ghost.org
@@ -70,3 +52,6 @@ I build my own furnitures, sew clothes, accessories and take photographs.
 [docker]: https://www.docker.com
 [mkdocs]: https://www.mkdocs.org
 [elm]: https://elm-lang.org
+[figma]: https://www.figma.com 
+[vsc]: https://code.visualstudio.com
+[zettlr]: https://www.zettlr.com/
