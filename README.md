@@ -4,7 +4,7 @@ Web and applications developer from Switzerland. I studied Cultural and Media St
 
 Today I work as an archival computer scientist / digital archivist in Solothurn and deal with the long-term archiving of digital data.
 
-I like good and multi-functional design, I am interested in web technologies and frameworks and in my spare time I like to build my own furniture, sew clothes, accessories and take photographs. I publish these products in irregular intervals on my [websites][website] or on [Instagram](instagram).
+I like good and multi-functional design, I am interested in web technologies and frameworks and in my spare time I like to build my own furniture, sew clothes, accessories and take photographs. I publish these products in irregular intervals on my [websites][website] or on [Instagram][instagram)]
 
 ## Connect with me
 
