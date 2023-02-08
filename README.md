@@ -1,6 +1,10 @@
 ## Hi there I'm André
 
-Web developer from Switzerland. I got my PhD in media studies / digital humanitis from the University of Basel. Today I work as an archive computer scientist in Solothurn. I like good and functional design, create websites, and in my spare time I build my own furnitures, sew clothes, accessories and take photographs. The products are published on one of my [websites][website].
+Web and applications developer from Switzerland. I studied Cultural and Media Studies and Computer Science at the University of Basel and wrote my PhD thesis in Digital Humanities.
+
+Today I work as an archival computer scientist / digital archivist in Solothurn and deal with the long-term archiving of digital data.
+
+I like good and multi-functional design, I am interested in web technologies and frameworks and in my spare time I like to build my own furniture, sew clothes, accessories and take photographs. I publish these products in irregular intervals on my [websites][website] or on [Instagram](instagram).
 
 ## Connect with me
 
