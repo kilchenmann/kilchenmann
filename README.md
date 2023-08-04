@@ -1,3 +1,6 @@
+
+![digital-typewriter-banner](https://github.com/kilchenmann/kilchenmann/assets/4253580/acaf818c-95a9-454d-8cd7-fbdbeffa89b2)
+
 ## Hi there I'm André
 
 Web and applications developer from Switzerland. I studied Cultural and Media Studies and Computer Science at the University of Basel and wrote my PhD thesis in Digital Humanities at the same University.
