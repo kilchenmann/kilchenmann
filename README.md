@@ -3,11 +3,11 @@
 
 ## Hi there I'm André
 
-Web and applications developer from Switzerland. I studied Cultural and Media Studies and Computer Science at the University of Basel and wrote my PhD thesis in Digital Humanities at the same University.
+Web and applications developer from Switzerland with a passion for digital preservation and creativity. I studied Cultural and Media Studies and Computer Science at the University of Basel, and wrote my PhD thesis in Digital Humanities. Today, I work as an archival computer scientist / digital archivist in Solothurn, where I help to ensure the long-term preservation of digital data.
 
-Today I work as an archival computer scientist / digital archivist in Solothurn and deal with the long-term archiving of digital data.
+In my spare time, I enjoy building my own furniture, sewing clothes and accessories, and taking photographs. I publish my creative projects on my [websites][website] and [Instagram account][instagram].
 
-I like good and multi-functional design, I am interested in web technologies and frameworks and in my spare time I like to build my own furniture, sew clothes, accessories and take photographs. I publish these products in irregular intervals on my [websites][website] or on [Instagram][instagram].
+I am passionate about using technology to preserve and share our cultural heritage, and to inspire creativity in others. I am also a strong advocate for open access and open source software.
 
 ## Connect with me
 
