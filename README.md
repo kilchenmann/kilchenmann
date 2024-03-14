@@ -69,7 +69,7 @@ I am passionate about using technology to preserve and share our cultural herita
 
 
 
-[website]: https://lakto.design
+[website]: https://blog.lakto.org
 [twitter]: https://twitter.com/milchkannen
 [instagram]: https://instagram.com/milchkannen
 [github]: https://github.com/kilchenmann
