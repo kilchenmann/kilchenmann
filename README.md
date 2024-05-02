@@ -24,6 +24,7 @@ I am passionate about using technology to preserve and share our cultural herita
 [<img src="https://img.shields.io/badge/github--purple?style=for-the-badge&logo=github" alt="GitHub | Kilchenmann" />][github]
 [<img src="https://img.shields.io/badge/gitlab--orange?style=for-the-badge&logo=gitlab" alt="GitLab | Kilchenmann" />][gitlab]
 [<img src="https://img.shields.io/badge/codepen--green?style=for-the-badge&logo=codepen" alt="CodePen | Kilchenmann" />][codepen]
+[<img src="https://img.shields.io/badge/thingiverse--blue?style=for-the-badge&logo=Thingiverse" alt="Thingiverse | Kilchenmann" />][thingiverse]
 
 
 ## Languages and Frameworks I work with
@@ -78,6 +79,7 @@ I am passionate about using technology to preserve and share our cultural herita
 [unsplash]: https://unsplash.com/@kilchenmann
 [pinterest]: https://www.pinterest.ch/milchkannen
 [codepen]: https://codepen.io/kilchenmann
+[thingiverse]: https://www.thingiverse.com/kilchenmann
 
 [angular]: https://angular.io
 [svelte]: https://svelte.dev
