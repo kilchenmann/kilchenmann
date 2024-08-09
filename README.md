@@ -60,7 +60,7 @@ I am passionate about using technology to preserve and share our cultural herita
 
 ### Development and Deployment
 
-[<img src="https://img.shields.io/badge/vsc--0078d7?style=for-the-badge&logo=visualstudiocode" alt="Visual Studio Code" />][vscode]
+[<img src="https://img.shields.io/badge/vscode--0078d7?style=for-the-badge&logo=visualstudiocode" alt="Visual Studio Code" />][vscode]
 [<img src="https://img.shields.io/badge/docker--blue?style=for-the-badge&logo=docker" alt="Docker" />][docker]
 
 ### Notes and Design
