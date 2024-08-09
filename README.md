@@ -60,7 +60,7 @@ I am passionate about using technology to preserve and share our cultural herita
 
 ### Development and Deployment
 
-[<img src="https://img.shields.io/badge/vsc--0078d7?style=for-the-badge&logo=visualstudiocode" alt="Visual Studio Code" />][vsc]
+[<img src="https://img.shields.io/badge/vsc--0078d7?style=for-the-badge&logo=visualstudiocode" alt="Visual Studio Code" />][vscode]
 [<img src="https://img.shields.io/badge/docker--blue?style=for-the-badge&logo=docker" alt="Docker" />][docker]
 
 ### Notes and Design
@@ -92,7 +92,7 @@ I am passionate about using technology to preserve and share our cultural herita
 [mkdocs]: https://www.mkdocs.org
 [elm]: https://elm-lang.org
 [figma]: https://www.figma.com 
-[vsc]: https://code.visualstudio.com
+[vscode]: https://code.visualstudio.com
 [zettlr]: https://www.zettlr.com
 [latex]: https://www.latex-project.org
 [gnubash]: https://www.gnu.org/software/bash
