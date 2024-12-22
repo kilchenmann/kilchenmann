@@ -66,6 +66,7 @@ I am passionate about using technology to preserve and share our cultural herita
 ### Notes and Design
 
 [<img src="https://img.shields.io/badge/zettlr--33A67C?style=for-the-badge&logo=zettlr" alt="Zettlr" />][zettlr]
+[<img src="https://img.shields.io/badge/1writer--d43431?style=for-the-badge&logo=1writer" alt="1Writer" />][1writer]
 [<img src="https://img.shields.io/badge/figma--ff3b00?style=for-the-badge&logo=figma" alt="Figma" />][figma]
 
 
@@ -93,6 +94,7 @@ I am passionate about using technology to preserve and share our cultural herita
 [elm]: https://elm-lang.org
 [figma]: https://www.figma.com 
 [vscode]: https://code.visualstudio.com
+[1writer]: https://1writerapp.com/
 [zettlr]: https://www.zettlr.com
 [latex]: https://www.latex-project.org
 [gnubash]: https://www.gnu.org/software/bash
