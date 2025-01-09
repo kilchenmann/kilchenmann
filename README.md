@@ -16,7 +16,6 @@ I am passionate about using technology to preserve and share our cultural herita
 [<img src="https://img.shields.io/badge/linkedin--blue?style=for-the-badge&logo=linkedin" alt="LinkedIn | Kilchenmann" />][linkedin]
 [<img src="https://img.shields.io/badge/unsplash--darkgrey?style=for-the-badge&logo=unsplash" alt="Unsplash | Kilchenmann" />][unsplash]
 [<img src="https://img.shields.io/badge/instagram--e1306c?style=for-the-badge&logo=instagram" alt="Instagram | Milchkannen" />][instagram]
-[<img src="https://img.shields.io/badge/twitter--00acee?style=for-the-badge&logo=twitter" alt="Twitter | Milchkannen" />][twitter]
 [<img src="https://img.shields.io/badge/pinterest--e60023?style=for-the-badge&logo=pinterest" alt="Pinterest | Milchkannen" />][pinterest]
 
 ### Social Coding
