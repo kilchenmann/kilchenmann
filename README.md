@@ -5,7 +5,7 @@
 
 Web and applications developer from Switzerland with a passion for digital preservation and creativity. I studied Cultural and Media Studies and Computer Science at the University of Basel, and wrote my PhD thesis in Digital Humanities. Today, I work as an archival computer scientist / digital archivist in Solothurn, where I help to ensure the long-term preservation of digital data.
 
-In my spare time, I enjoy building my own furniture, sewing clothes and accessories, and taking photographs. I publish my creative projects on my [websites][website] and [Instagram][instagram].
+In my spare time, I enjoy building my own furniture, sewing clothes and accessories, and taking photographs. I publish my creative projects on my [website][website] and [Instagram][instagram].
 
 I am passionate about using technology to preserve and share our cultural heritage, and to inspire creativity in others. I am also a strong advocate for open access and open source software.
 
@@ -70,7 +70,7 @@ I am passionate about using technology to preserve and share our cultural herita
 
 
 
-[website]: https://blog.lakto.org
+[website]: https://blog.milchkannen.ch
 [twitter]: https://twitter.com/milchkannen
 [instagram]: https://instagram.com/milchkannen
 [github]: https://github.com/kilchenmann
