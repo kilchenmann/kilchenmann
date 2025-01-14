@@ -70,7 +70,7 @@ I am passionate about using technology to preserve and share our cultural herita
 
 
 
-[website]: https://blog.milchkannen.ch
+[website]: https://milchkannen.ch
 [twitter]: https://twitter.com/milchkannen
 [instagram]: https://instagram.com/milchkannen
 [github]: https://github.com/kilchenmann
